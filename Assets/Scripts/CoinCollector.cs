@@ -10,10 +10,10 @@ public class CoinCollector : MonoBehaviour
     private Collider _otherCollider;
     private int _neededAmount = 20;
     private int _coinCount = 0;
-    private float _timer = 10f;
+    private float _timer = 60f;
     
     public int NeededAmount => _neededAmount;
-    public int CoinCount => _neededAmount;
+    public int CoinCount => _coinCount;
     public float Timer => _timer;
 
 
