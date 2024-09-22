@@ -1447,6 +1447,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 51107343939013100, guid: 34d5f1c132a9ba048a69c5bc5c42ea1c,
         type: 3}
+      propertyPath: _jumpForce
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 51107343939013100, guid: 34d5f1c132a9ba048a69c5bc5c42ea1c,
+        type: 3}
       propertyPath: _cameraCenter
       value: 
       objectReference: {fileID: 923212983}
